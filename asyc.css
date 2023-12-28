@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    color : white;
+    text-align: center;
+}
+h1{
+    transition-delay:0.5s;
+}
