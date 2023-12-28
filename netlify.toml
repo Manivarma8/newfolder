@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/async.html"
+to = "/index.html"
 status = 200
